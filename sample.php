@@ -4,7 +4,7 @@ $name = gethostbyaddr($ipaddress);
 echo $name;
 
 Resulte of is DESKTOP-ULGUDNE it is my computer name
-but it working only localhost when project in server it retuen ip like this 192.168.1.11 .......
+but it working only localhost when project in server it return ip like this 192.168.1.11 .......
 
 
 
